@@ -1,7 +1,7 @@
 # TinyUrl
 Small version of a TinyUrl Service via CLI in C#
 
-This console application demonstrates a Proof-of-Concept (POC) for a Tiny URL service. It allows users to create short URLs from long URLs, retrieve long URLs from short URLs, delete short URLs, and get statistics on the usage of short URLs.
+This console application demonstrates a Proof-of-Concept for a Tiny URL service. It allows users to create short URLs from long URLs, retrieve long URLs from short URLs, delete short URLs, and get statistics on the usage of short URLs.
 
 ## Features
 
@@ -29,7 +29,7 @@ Upon running the application, follow the on-screen instructions to interact with
 
 ## Automated Testing
 
-The application includes automated testing capabilities to verify functionality. Modify the `AutomatedTestCases.cs` file to add or adjust test scenarios as needed. To run automated tests, select "2. Automated" mode when prompted.
+The application includes automated testing capabilities to verify functionality. Modify the `AutomatedTestCases` class to add or adjust test scenarios as needed. To run automated tests, select "2. Automated" mode when prompted.
 
 ## Logging
 
